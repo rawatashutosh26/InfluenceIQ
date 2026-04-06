@@ -2,6 +2,9 @@
 **Built for Schmooze Media Technical Screening**
 
 > Validate startup ideas instantly using AI. Get structured reports on problem-market fit, customer personas, competitors, tech stack, risk level, and profitability score — all in under 10 seconds.
+<img width="1836" height="906" alt="image" src="https://github.com/user-attachments/assets/be37813a-b26c-443f-a611-3c020f308870" />
+<img width="1824" height="890" alt="image" src="https://github.com/user-attachments/assets/a6a02909-e1de-408b-8c40-4cdfb31ec53c" />
+<img width="1812" height="891" alt="image" src="https://github.com/user-attachments/assets/374812ea-c6cc-4e99-a271-2d6abb10d3d1" />
 
 ---
 
@@ -15,7 +18,10 @@
 Schmooze Media is an Integrated Communication & Marketing Agency offering Influencer Management and MarTech automation as core services. **InfluenceIQ** solves a real pain point in that space: brands waste 40%+ of influencer budgets on mismatched or fake-follower accounts. This tool provides AI-powered pre-validation — the same due diligence a consultant does in hours, in seconds.
 
 ---
+<img width="1753" height="1064" alt="image" src="https://github.com/user-attachments/assets/559ce450-e781-4d5c-972a-4d5ac2319543" />
+<img width="1718" height="955" alt="image" src="https://github.com/user-attachments/assets/83556a7d-ca83-4042-b3fc-e3c5bf97a356" />
 
+---
 ## Tech Stack
 
 | Layer      | Technology                        |
