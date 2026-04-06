@@ -6,7 +6,7 @@
 ---
 
 ## Live Demo
-- **Link:** :
+- **Link:** : https://influence-iq-ruddy.vercel.app/
 
 ---
 
