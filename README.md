@@ -6,8 +6,7 @@
 ---
 
 ## Live Demo
-- **Frontend:** https://influenceiq.vercel.app *(after deployment)*
-- **Backend:** https://influenceiq-api.render.com *(after deployment)*
+- **Link:** :
 
 ---
 
@@ -210,7 +209,7 @@ npx vercel
 
 ---
 
-## Architecture Notes (300 words)
+## Architecture Notes 
 
 The app is split into a clean client/server architecture. The Next.js frontend handles all UI with App Router and server/client component separation — form submission and data fetching happen client-side for a snappy experience.
 
