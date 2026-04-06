@@ -1,15 +1,17 @@
 # InfluenceIQ — AI Startup Idea Validator
+---
+
+## Live Demo
+
+- **Link:** : https://influence-iq-ruddy.vercel.app/
+
+---
 **Built for Schmooze Media Technical Screening**
 
 > Validate startup ideas instantly using AI. Get structured reports on problem-market fit, customer personas, competitors, tech stack, risk level, and profitability score — all in under 10 seconds.
 <img width="1836" height="906" alt="image" src="https://github.com/user-attachments/assets/be37813a-b26c-443f-a611-3c020f308870" />
 <img width="1824" height="890" alt="image" src="https://github.com/user-attachments/assets/a6a02909-e1de-408b-8c40-4cdfb31ec53c" />
 <img width="1812" height="891" alt="image" src="https://github.com/user-attachments/assets/374812ea-c6cc-4e99-a271-2d6abb10d3d1" />
-
----
-
-## Live Demo
-- **Link:** : https://influence-iq-ruddy.vercel.app/
 
 ---
 
