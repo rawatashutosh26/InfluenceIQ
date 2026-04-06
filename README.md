@@ -228,8 +228,3 @@ For AI output reliability, the prompt enforces strict JSON-only responses and th
 PDF export is done entirely client-side with jsPDF (lazy-loaded), so no server resources are used. The report renders programmatically with brand colors and an auto-table for competitors.
 
 The design uses a bold editorial aesthetic with Bebas Neue for display text, a dark ink background, and accent red — intentionally referencing Schmooze Media's brand energy. Every section on the report page uses staggered fade-up animations for a polished feel.
-
----
-
-## Author
-Built by [Your Name] for Schmooze Media Technical Screening — 2025
